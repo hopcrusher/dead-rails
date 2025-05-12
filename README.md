@@ -5,7 +5,7 @@
 <div align="center"><a href=""><img src="https://img.shields.io/badge/Click_To-Download-green?style=plastic&logo=ROBLOX" height="80"></a></div>
 
 
-**Description:**  
+# **Description:**  
 Looking for reliable and safe automation tools for Dead Rails? Our scripts enable you to automate farming, battles, resource collection, and more—making your gameplay smoother and more efficient. Perfect for mobile devices, our solutions help you save time, level up faster, and enjoy the game without tedious grind. Play smarter, not harder! 🎮✨
 
 ---
